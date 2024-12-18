@@ -1,0 +1,9 @@
+Data,Descrição,Valor,Tipo,Referência
+2024-03-01,Pagamento Fornecedor ABC Lda,-1500.00,DEBITO,REF123456
+2024-03-02,Transferência XYZ Serviços,-2750.50,DEBITO,TRF789012
+2024-03-03,Recebimento Cliente 123,4500.00,CREDITO,PAY345678
+2024-03-05,Material Escritório Loja Store,-230.45,DEBITO,POS901234
+2024-03-07,Fatura EDP Energia,-156.78,DEBITO,DD567890
+2024-03-10,Serviços Informática Tech SA,-890.00,DEBITO,FAT432109
+2024-03-12,Recebimento Studio Design,3200.00,CREDITO,TRF654321
+2024-03-15,Aluguer Escritório,-1200.00,DEBITO,DD098765
